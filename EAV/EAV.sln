@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAV.DAL", "EAV.DAL\EAV.DAL.csproj", "{539AD86D-8BA9-48C0-ABD3-3BC222625B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539AD86D-8BA9-48C0-ABD3-3BC222625B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539AD86D-8BA9-48C0-ABD3-3BC222625B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539AD86D-8BA9-48C0-ABD3-3BC222625B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539AD86D-8BA9-48C0-ABD3-3BC222625B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C3113B-24A6-4FD4-9559-B4D0EA708C13}
+	EndGlobalSection
+EndGlobal
